@@ -13,3 +13,13 @@
        display:inline block;
        padding: 8px 16px;
 }
+#a-text{
+
+       letter-spacing: 2px;
+}
+#projects-section{
+         margin-bottom: 16px;
+}
+#About-section img{
+        filter: grayscale(70%);
+}
